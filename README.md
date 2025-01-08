@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**Lqnnixdev/Lqnnixdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I'm @lqnnix
+### Italian back-end developer
+#
+___
+### 👑 Projects
+#### Owner for Velarware
+#### 
+##### How to reach me: 
+- [@lqnnixdev](https://discord.com/users/1270299887115833408) on Discord,
+- lqnnixv2@gmail.com
+#
+___
+### 🚀 Website
+- [Lqnnix.eu] (https://lqnnix.eu)
+___
+### 💎 Languages and Tools
+- Linux (arch user btw)
+- Node.js
+- JavaScript
+- TypeScript
+- C#
+- Microsoft .NET
+- C++ (learning)
+- MariaDB
+- NGINX
+- Python
+- Lua
+- Html
